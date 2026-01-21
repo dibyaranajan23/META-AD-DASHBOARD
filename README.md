@@ -32,4 +32,14 @@ Video and Stories ads outperform other formats across CTR, engagement, and conve
 ✅ Separate strategies for high-volume vs. high-value regions
 
 📌 Final takeaway:
-The ads are excellent at driving awareness and engagement, but conversion optimization is the biggest growth lever. Strengthening the lower funnel can unlock significant RO
+The ads are excellent at driving awareness and engagement, but conversion optimization is the biggest growth lever. Strengthening the lower funnel can unlock significant ROI
+
+#CDASHBOARD
+
+<img width="1208" height="804" alt="Screenshot 2026-01-21 124459" src="https://github.com/user-attachments/assets/6496c30d-e640-4945-a674-b681b789f404" />
+
+
+
+
+
+
